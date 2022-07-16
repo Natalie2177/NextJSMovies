@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "name": "nextjsmovies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natalie2177/NextJSMovies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natalie2177/NextJSMovies/issues"
+  },
+  "homepage": "https://github.com/Natalie2177/NextJSMovies#readme",
+  "description": ""
+}
