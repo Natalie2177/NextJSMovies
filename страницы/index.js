@@ -9,7 +9,8 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#000000" />
         <meta name="description" content="Search for movies and serials" />
-        <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+       <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+       <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />    
         <link
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
